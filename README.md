@@ -6,4 +6,5 @@
 
 ## References
 1. Y. Cao, X. Cao, H. Seo, and J. Zhou, "An Integrated Full-Duplex/FDD Duplexer and Receiver Achieving 100MHz Bandwidth 58dB/48dB Self-Interference Suppression Using Hybrid-Analog-Digital Autonomous Adaptation Loops", [IMS 2021](https://ieeexplore.ieee.org/abstract/document/9223872/)
+2. Finalist Team CADELAC @ Qualcomm Innovation Fellowship 2021
 
